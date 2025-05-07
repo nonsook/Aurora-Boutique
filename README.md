@@ -1,5 +1,5 @@
 # Aurora-Boutique
-Identifying trends across different product categories and  inefficiencies in performance tracking.
+Identifying trends across different product categories and  inefficiencies in performance tracking for the month of May 2024. 
 
 ![Aurora Boutique pic](https://github.com/user-attachments/assets/369e87a8-b491-4d84-b4f1-61c0b1fbba9b)
 
@@ -28,4 +28,15 @@ I uncovered trends that could fuel better business decisions for the company.
  - ✅ Minor discounts had minimal influence on revenue impact
  - ✅ "Regular Spenders" were consistent, but “High Spenders” were gold mines.
 
- 
+ ## 📈 Insight That Matters:
+ Clothing may have moved fast, but the real money was in Accessories. 
+Recognizing these high-performing segments helps to prioritize resources effectively.
+
+
+## 💡 Actionable Recommendations:
+-🔹 Double down on premium Accessories marketing, possibly with bundled offers
+-🔹 Launch targeted loyalty rewards for High-Spenders
+-🔹 Encourage online transactions with value-added incentives
+-🔹 Monitor store-level performance to drive location-specific strategies, e.g., elevating the experience in stores that attract big spenders.
+
+
