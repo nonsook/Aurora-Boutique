@@ -34,9 +34,11 @@ Recognizing these high-performing segments helps to prioritize resources effecti
 
 
 ## 💡 Actionable Recommendations:
--🔹 Double down on premium Accessories marketing, possibly with bundled offers
--🔹 Launch targeted loyalty rewards for High-Spenders
--🔹 Encourage online transactions with value-added incentives
--🔹 Monitor store-level performance to drive location-specific strategies, e.g., elevating the experience in stores that attract big spenders.
+- 🔹Double down on premium Accessories marketing, possibly with bundled offers
+- 🔹Launch targeted loyalty rewards for High-Spenders
+- 🔹Encourage online transactions with value-added incentives
+- 🔹Monitor store-level performance to drive location-specific strategies, e.g., elevating the experience in stores that attract big spenders.
 
+
+![Thank (2)](https://github.com/user-attachments/assets/f60456a3-d1e4-4f4a-b8cc-f1f67565e785)
 
