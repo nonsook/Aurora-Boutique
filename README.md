@@ -18,11 +18,14 @@ I uncovered trends that could fuel better business decisions for the company.
 
   ## Dashboard
 
-  ## Highlights
- ✅ Accessories drove the highest revenue— Handbags, Sunglasses, and Wallets
- ✅ Female customers dominated in sales and volume
- ✅ Online payments were strongly tied to high-value transactions
- ✅ Minor discounts had minimal influence on revenue impact
- ✅ "Regular Spenders" were consistent, but “High Spenders” were gold mines.
+  ![Aurora Project Data analysis](https://github.com/user-attachments/assets/8ce7c02d-a543-4bbf-a6a1-3f3136038664)
+
+  
+ ## Highlights
+ - ✅ Accessories drove the highest revenue— Handbags, Sunglasses, and Wallets
+ - ✅ Female customers dominated in sales and volume
+ - ✅ Online payments were strongly tied to high-value transactions
+ - ✅ Minor discounts had minimal influence on revenue impact
+ - ✅ "Regular Spenders" were consistent, but “High Spenders” were gold mines.
 
  
